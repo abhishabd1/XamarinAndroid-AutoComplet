@@ -1,0 +1,4 @@
+AutoComplete.MainActivity, AutoComplete;md553b6106af718c8b4ab82e424622a0231.MainActivity
+AutoComplete.MainActivity, AutoComplete, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md553b6106af718c8b4ab82e424622a0231.MainActivity
+AutoComplete.MainActivity;md553b6106af718c8b4ab82e424622a0231.MainActivity
+autocomplete.MainActivity;md553b6106af718c8b4ab82e424622a0231.MainActivity
