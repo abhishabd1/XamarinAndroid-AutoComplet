@@ -13,11 +13,11 @@ namespace AutoComplete
 
             SetContentView(Resource.Layout.Main);
 
-            string[] suggestionString = { "Hello", "Hi", "Canarys", "Xamarin", "Mobile", "Abhishek" };
+            string[] xyz = { "Hello", "Hi", "Canarys", "Xamarin", "Mobile", "Abhishek" };
 
             var autoText = FindViewById<MultiAutoCompleteTextView>(Resource.Id.autoComplete);
 
-            ArrayAdapter ad = new ArrayAdapter(this, Android.Resource.Layout.SimpleExpandableListItem1, suggestionString);
+            ArrayAdapter ad = new ArrayAdapter(this, Android.Resource.Layout.SimpleExpandableListItem1, xyz);
 
 
             autoText.Adapter = ad;

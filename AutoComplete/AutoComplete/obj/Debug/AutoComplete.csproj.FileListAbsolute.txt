@@ -36,4 +36,42 @@ c:\users\abhishekk\documents\visual studio 2015\Projects\AutoComplete\AutoComple
 c:\users\abhishekk\documents\visual studio 2015\Projects\AutoComplete\AutoComplete\obj\Debug\android\assets\System.Xml.dll.mdb
 c:\users\abhishekk\documents\visual studio 2015\Projects\AutoComplete\AutoComplete\obj\Debug\android\assets\System.Xml.Linq.dll.mdb
 c:\users\abhishekk\documents\visual studio 2015\Projects\AutoComplete\AutoComplete\obj\Debug\AutoComplete.dll.mdb
-c:\users\abhishekk\documents\visual studio 2015\Projects\AutoComplete\AutoComplete\bin\Debug\AutoComplete.dll.mdb
+D:\DemoPractice\XamarinAndroid-AutoComplete\AutoComplete\AutoComplete\bin\Debug\AutoComplete.dll
+D:\DemoPractice\XamarinAndroid-AutoComplete\AutoComplete\AutoComplete\bin\Debug\AutoComplete.pdb
+D:\DemoPractice\XamarinAndroid-AutoComplete\AutoComplete\AutoComplete\bin\Debug\AutoComplete.AutoComplete.apk
+D:\DemoPractice\XamarinAndroid-AutoComplete\AutoComplete\AutoComplete\bin\Debug\AutoComplete.AutoComplete-Signed.apk
+D:\DemoPractice\XamarinAndroid-AutoComplete\AutoComplete\AutoComplete\obj\Debug\AutoComplete.csprojResolveAssemblyReference.cache
+D:\DemoPractice\XamarinAndroid-AutoComplete\AutoComplete\AutoComplete\obj\Debug\AutoComplete.dll
+D:\DemoPractice\XamarinAndroid-AutoComplete\AutoComplete\AutoComplete\obj\Debug\AutoComplete.pdb
+D:\DemoPractice\XamarinAndroid-AutoComplete\AutoComplete\AutoComplete\obj\Debug\android\bin\AutoComplete.AutoComplete.apk
+D:\DemoPractice\XamarinAndroid-AutoComplete\AutoComplete\AutoComplete\obj\Debug\res\layout\main.xml
+D:\DemoPractice\XamarinAndroid-AutoComplete\AutoComplete\AutoComplete\obj\Debug\res\values\strings.xml
+D:\DemoPractice\XamarinAndroid-AutoComplete\AutoComplete\AutoComplete\obj\Debug\res\drawable\icon.png
+D:\DemoPractice\XamarinAndroid-AutoComplete\AutoComplete\AutoComplete\obj\Debug\R.cs.flag
+D:\DemoPractice\XamarinAndroid-AutoComplete\AutoComplete\AutoComplete\obj\Debug\uploadflags.txt
+D:\DemoPractice\XamarinAndroid-AutoComplete\AutoComplete\AutoComplete\bin\Debug\AutoComplete.dll.mdb
+D:\DemoPractice\XamarinAndroid-AutoComplete\AutoComplete\AutoComplete\bin\Debug\Java.Interop.dll.mdb
+D:\DemoPractice\XamarinAndroid-AutoComplete\AutoComplete\AutoComplete\bin\Debug\Mono.Android.dll.mdb
+D:\DemoPractice\XamarinAndroid-AutoComplete\AutoComplete\AutoComplete\bin\Debug\mscorlib.dll.mdb
+D:\DemoPractice\XamarinAndroid-AutoComplete\AutoComplete\AutoComplete\bin\Debug\System.ComponentModel.Composition.dll.mdb
+D:\DemoPractice\XamarinAndroid-AutoComplete\AutoComplete\AutoComplete\bin\Debug\System.Core.dll.mdb
+D:\DemoPractice\XamarinAndroid-AutoComplete\AutoComplete\AutoComplete\bin\Debug\System.dll.mdb
+D:\DemoPractice\XamarinAndroid-AutoComplete\AutoComplete\AutoComplete\bin\Debug\System.Net.Http.dll.mdb
+D:\DemoPractice\XamarinAndroid-AutoComplete\AutoComplete\AutoComplete\bin\Debug\System.Runtime.Serialization.dll.mdb
+D:\DemoPractice\XamarinAndroid-AutoComplete\AutoComplete\AutoComplete\bin\Debug\System.ServiceModel.Internals.dll.mdb
+D:\DemoPractice\XamarinAndroid-AutoComplete\AutoComplete\AutoComplete\bin\Debug\System.Xml.dll.mdb
+D:\DemoPractice\XamarinAndroid-AutoComplete\AutoComplete\AutoComplete\bin\Debug\System.Xml.Linq.dll.mdb
+D:\DemoPractice\XamarinAndroid-AutoComplete\AutoComplete\AutoComplete\obj\Debug\android\assets\AutoComplete.dll.mdb
+D:\DemoPractice\XamarinAndroid-AutoComplete\AutoComplete\AutoComplete\obj\Debug\android\assets\Java.Interop.dll.mdb
+D:\DemoPractice\XamarinAndroid-AutoComplete\AutoComplete\AutoComplete\obj\Debug\android\assets\Mono.Android.dll.mdb
+D:\DemoPractice\XamarinAndroid-AutoComplete\AutoComplete\AutoComplete\obj\Debug\android\assets\mscorlib.dll.mdb
+D:\DemoPractice\XamarinAndroid-AutoComplete\AutoComplete\AutoComplete\obj\Debug\android\assets\System.ComponentModel.Composition.dll.mdb
+D:\DemoPractice\XamarinAndroid-AutoComplete\AutoComplete\AutoComplete\obj\Debug\android\assets\System.Core.dll.mdb
+D:\DemoPractice\XamarinAndroid-AutoComplete\AutoComplete\AutoComplete\obj\Debug\android\assets\System.dll.mdb
+D:\DemoPractice\XamarinAndroid-AutoComplete\AutoComplete\AutoComplete\obj\Debug\android\assets\System.Net.Http.dll.mdb
+D:\DemoPractice\XamarinAndroid-AutoComplete\AutoComplete\AutoComplete\obj\Debug\android\assets\System.Runtime.Serialization.dll.mdb
+D:\DemoPractice\XamarinAndroid-AutoComplete\AutoComplete\AutoComplete\obj\Debug\android\assets\System.ServiceModel.Internals.dll.mdb
+D:\DemoPractice\XamarinAndroid-AutoComplete\AutoComplete\AutoComplete\obj\Debug\android\assets\System.Xml.dll.mdb
+D:\DemoPractice\XamarinAndroid-AutoComplete\AutoComplete\AutoComplete\obj\Debug\android\assets\System.Xml.Linq.dll.mdb
+D:\DemoPractice\XamarinAndroid-AutoComplete\AutoComplete\AutoComplete\obj\Debug\AutoComplete.dll.mdb
+D:\DemoPractice\XamarinAndroid-AutoComplete\AutoComplete\AutoComplete\bin\Debug\AutoComplete.dll.mdb
